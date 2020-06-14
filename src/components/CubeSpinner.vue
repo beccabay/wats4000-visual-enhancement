@@ -105,4 +105,6 @@ export default {
   }
 }
 /* Spinner animation and markup borrowed from SpinKit by @tobiasahlin - http://tobiasahlin.com/spinkit/ */
+
+
 </style>
